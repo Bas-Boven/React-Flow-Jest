@@ -1,0 +1,44 @@
+{
+  "stats": {
+    "duration": 2693,
+    "start": "2022-03-30T13:29:25.911Z",
+    "end": "2022-03-30T13:29:28.604Z",
+    "passes": 5,
+    "failures": 0,
+    "tests": 5
+  },
+  "failures": [],
+  "passes": [
+    {
+      "title": "test WorkflowSpecification, fromJson with valid properties",
+      "fullTitle": " test WorkflowSpecification, fromJson with valid properties",
+      "duration": 875,
+      "errorCount": 0
+    },
+    {
+      "title": "test WorkflowSpecification, fromJson with invalid id",
+      "fullTitle": " test WorkflowSpecification, fromJson with invalid id",
+      "duration": 875,
+      "errorCount": 0
+    },
+    {
+      "title": "test WorkflowSpecification, fromJson with invalid name",
+      "fullTitle": " test WorkflowSpecification, fromJson with invalid name",
+      "duration": 875,
+      "errorCount": 0
+    },
+    {
+      "title": "test WorkflowSpecification, fromJson with missing json",
+      "fullTitle": " test WorkflowSpecification, fromJson with missing json",
+      "duration": 875,
+      "errorCount": 0
+    },
+    {
+      "title": "test WorkflowSpecification, fromJson with invalid json",
+      "fullTitle": " test WorkflowSpecification, fromJson with invalid json",
+      "duration": 875,
+      "errorCount": 0
+    }
+  ],
+  "skipped": []
+}

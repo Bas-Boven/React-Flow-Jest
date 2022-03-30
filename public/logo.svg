@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28.06" height="33.06"
+     viewBox="0 0 28.06 33.06">
+    <defs>
+        <style>
+            .cls-2 {
+            fill: url(#linear-gradient);
+            }
+
+            .cls-3 {
+            fill: #3f499d;
+            }
+        </style>
+        <linearGradient id="linear-gradient" x1="29.75" y1="25.35" x2="-2.17" y2="25.2" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#4fe8ff"/>
+            <stop offset="0.97" stop-color="#0051c9"/>
+        </linearGradient>
+    </defs>
+    <title>runtime_dark_icon</title>
+    <g>
+        <path class="cls-2" d="M14.8,32.51H.16C.16,24.52,6.24,18,13.75,18H28.39C28.39,26,22.3,32.51,14.8,32.51Z"/>
+        <path class="cls-3" d="M14.64,0H0V14.47H28.22C28.22,6.48,22.14,0,14.64,0Z"/>
+    </g>
+</svg>
